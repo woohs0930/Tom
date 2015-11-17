@@ -7,7 +7,7 @@
 %>
 
 <div class="bodyFrame1">
-    <!--=== Slider ===-->
+    <!--=== Slider ====-->
     <div class="slider-inner">
         <div id="da-slider" class="da-slider">
             <div class="da-slide">
